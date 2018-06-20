@@ -1,5 +1,4 @@
-# lagarisvolley_CF1718
-dati della stagione lagaris volley serie C femminile 2017/2018
+# Analisi dati Lagaris Volley C femminile stagione 2017/2018
 
 ### Risulati ottenuti
 - primo posto serie C femminile (promozione)
