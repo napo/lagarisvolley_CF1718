@@ -7,7 +7,7 @@ vedi  [analisi.ipynb](analisi.ipynb)
 - primo posto [coppa trentino alto adige](http://www.fipav.tn.it/risultati-classifiche.aspx?ComitatoId=16&StId=1328&DataDa=&StatoGara=1&CId=41019&SId=&PId=110&btFiltro=CERCA) 
 - terzo posto [coppa triveneto](http://www.fipavveneto.net/archivio-news?NewsId=35509&)
 
-### Dati
+### Raccolta dati
 ad ogni partita viene trascritto su un foglio di carta le performance di ogni singolo giocatore nella sequenza di tocchi secondo questo schema:
 
 | numero | 1 |  2|  3|  4|  5|  6|  7|  8|  9| 10| ..| 
