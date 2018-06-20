@@ -10,7 +10,7 @@ vedi  [analisi.ipynb](analisi.ipynb)
 ### Raccolta dati
 ad ogni partita viene trascritto su un foglio di carta le performance di ogni singolo giocatore nella sequenza di tocchi secondo questo schema:
 
-| numero | 1 |  2|  3|  4|  5|  6|  7|  8|  9| 10| ..| 
+| numero |   |   |   |   |   |   |   |   |   |   |...| 
 | ------ |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|--:|
 | 6      |A#|R+|A-|B+|A#|A/|A+|M#|A#|A=|..|
 | ...    |..|..|..|..|..|..|..|..|..|..|..|                                                                  
