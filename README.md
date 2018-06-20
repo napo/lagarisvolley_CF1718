@@ -38,6 +38,7 @@ I simboli delle valutazioni:
 |**&minus;**|facile (B,A) o non giocabile (R)|
 
 e poi trascritti in un file Excel che genera a sua volta il tabellino
+
 &lbrack;il file xls va configurato con l'elenco atleti e con le schede dei singoli giocatori&rbrack;
 
 ### Dati aggregati
