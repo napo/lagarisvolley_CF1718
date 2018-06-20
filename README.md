@@ -8,7 +8,7 @@ vedi  [analisi.ipynb](analisi.ipynb)
 - terzo posto [coppa triveneto](http://www.fipavveneto.net/archivio-news?NewsId=35509&)
 
 ### Raccolta dati
-ad ogni partita viene trascritto su un foglio di carta le performance di ogni singolo giocatore nella sequenza di tocchi secondo questo schema:
+ad ogni partita viene trascritto su un foglio di carta le performance di ogni singolo giocatore nella sequenza di tocchi secondo questo schema.
 
 | numero |   |   |   |   |   |   |   |   |   |   |   | 
 | ------ |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|--:|
@@ -16,7 +16,11 @@ ad ogni partita viene trascritto su un foglio di carta le performance di ogni si
 | ...    |..|..|..|..|..|..|..|..|..|..|..|                                                                  
 | 3      |B+|B+|B+|B+|A-|B+|A=|  |  |  |  |
 
-secondo lo schema:  **F**_v_  (= fondamentale e sua valutazione)
+Dopo ogni set viene creata una nuova sequenza
+
+I valori nelle celle hanno questa sintassi:  **F**_v_
+
+dove **F** corrisponde al fondamentale utilizzato e _v_ come viene valutato
 
 Le lettere per i fondamentali sono:
 
