@@ -38,6 +38,9 @@ I simboli delle valutazioni:
 |**&minus;**|facile (B,A) o non giocabile (R)|
 
 e poi trascritti in un file Excel che genera a sua volta il tabellino
+&lbrack;il file xls va configurato con l'elenco atleti e con le schede dei singoli giocatori&rbrack;
 
 ### Dati aggregati
-lo script [analisi.ipynb](analisi.ipynb)  estrae i dati aggregati
+lo script [analisi.ipynb](analisi.ipynb)  estrae i dati aggregati e genera grafici e statistiche di squadra
+
+&lbrack;lo script va migliorato&rbrack;
