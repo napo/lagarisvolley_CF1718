@@ -39,9 +39,11 @@ I simboli delle valutazioni:
 
 e poi trascritti in un file Excel che genera a sua volta il tabellino
 
-&lbrack;nota&rbrack;il file xls va configurato con l'elenco atleti e con le schede dei singoli giocatori
+#### nota
+il file xls va configurato con l'elenco atleti e con le schede dei singoli giocatori
 
 ### Dati aggregati
 lo script [analisi.ipynb](analisi.ipynb)  estrae i dati aggregati e genera grafici e statistiche di squadra
 
-&lbrack;nota&rbrack;lo script va migliorato
+#### nota
+lo script va migliorato
