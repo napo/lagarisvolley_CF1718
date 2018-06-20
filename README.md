@@ -40,4 +40,4 @@ I simboli delle valutazioni:
 e poi trascritti in un file Excel che genera a sua volta il tabellino
 
 ### Dati aggregati
-lo script estrae i dati aggregati
+lo script [analisi.ipynb](analisi.ipynb)  estrae i dati aggregati
