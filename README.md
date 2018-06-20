@@ -1,6 +1,8 @@
 # Analisi dati Lagaris Volley C femminile stagione 2017/2018
+## Statistiche
+vedi  [analisi.ipynb](analisi.ipynb) 
 
-### Risulati ottenuti
+### Risultati ottenuti
 - primo posto [serie C femminile](http://www.fipav.tn.it/risultati-classifiche.aspx?ComitatoId=16&StId=1328&DataDa=&StatoGara=1&CId=39890&SId=2781&PId=110&btFiltro=CERCA) (promozione)
 - primo posto [coppa trentino alto adige](http://www.fipav.tn.it/risultati-classifiche.aspx?ComitatoId=16&StId=1328&DataDa=&StatoGara=1&CId=41019&SId=&PId=110&btFiltro=CERCA) 
 - terzo posto [coppa triveneto](http://www.fipavveneto.net/archivio-news?NewsId=35509&)
