@@ -37,13 +37,13 @@ I simboli delle valutazioni:
 |**!**|giocabile (R,B) o attacco murato e recuperato da copertura (A, M)|
 |**&minus;**|facile (B,A) o non giocabile (R)|
 
-e poi trascritti in un file Excel che genera a sua volta il tabellino #2
+e poi trascritti in un file Excel che genera a sua volta il tabellino [#2](https://github.com/napo/lagarisvolley_CF1718/issues/2)
 
 #### nota
-il file xls va configurato con l'elenco atleti e con le schede dei singoli giocatori #1
+il file xls va configurato con l'elenco atleti e con le schede dei singoli giocatori [#1](https://github.com/napo/lagarisvolley_CF1718/issues/1)
 
 ### Dati aggregati
 lo script [analisi.ipynb](analisi.ipynb)  estrae i dati aggregati e genera grafici e statistiche di squadra
 
 #### nota
-lo script va migliorato #3
+lo script va migliorato [#3](https://github.com/napo/lagarisvolley_CF1718/issues/3)
